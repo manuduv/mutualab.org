@@ -2,16 +2,16 @@
 title: À propos du Mutualāb
 description: >-
   Mutualāb est un vaste espace de travail partagé, 700 m2 en plein centre de
-  Lille, pour travailler en mode collaboratif ou personnel. Du lundi au vendredi de 9h à 19h.
+  Lille, pour travailler en mode collaboratif ou personnel. Du lundi au vendredi
+  de 9h à 19h.
 published: true
 ---
-# À propos du Mutualāb 
-Espace fermé au mois d'août 2017, bonnes vacances à toutes et tous :) 
+# À propos du Mutualab 
 
-On est une 60ène de coworkeurs-euses. La richesse du Mutualab tiens à la co-gestion, à notre envie de partager nos savoirs et à la diversité des métiers représentés. 
+Mutualāb est une communuté de plus de 400 coworkeurs. La richesse de Mutualab tiens à la co-gestion, à notre envie de partager nos savoirs et à la diversité des métiers représentés. 
 ![100 m2 entièrement modulables pour vos présentations et rencontres.](images/photoscwkrs-mutualab.jpg) 
 
-Au Mutualab tu trouveras, entre autre, des personnes travaillant: 
+A Mutualāb tu trouveras, entre autre, des personnes travaillant: 
 - dans le médical (ex/ production et distribution de réactifs, consommables et équipements de diagnostic médical vers l'Afrique)
 - dans la communication
 - dans la recherche de fond pour les enteprises sociales et associatives
@@ -56,4 +56,3 @@ Pour avoir plus d'infos vous pouvez nous suivre sur Linkedin:
 ![100 m2 entièrement modulables pour vos présentations et rencontres.](images/degustation de vin.jpg)
 
 ![100 m2 entièrement modulables pour vos présentations et rencontres.](images/coffee1.jpg)
-
