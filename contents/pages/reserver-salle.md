@@ -1,7 +1,8 @@
 ---
 title: Réserver une salle de réunion
-description: Réservez votre salle de réunion
+description: Réservez votre salle de réunion au centre ville de Lille
 nofollow: true
+published: true
 ---
 
 
