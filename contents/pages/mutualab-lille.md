@@ -1,9 +1,9 @@
 ---
 title: À propos du Mutualāb
 description: >-
-  Mutualāb est un vaste espace de travail partagé, 700 m2 en plein centre de
-  Lille, pour travailler en mode collaboratif ou personnel. Du lundi au vendredi
-  de 9h à 19h.
+  Mutualāb est un vaste espace de coworking, de Salle de réunion, MakerSpace et
+  Restaurant Bio en plein centre de Lille, pour travailler, se réunion,
+  developper son projet. Du lundi au vendredi de 9h à 19h.
 published: true
 ---
 # À propos du Mutualab 
