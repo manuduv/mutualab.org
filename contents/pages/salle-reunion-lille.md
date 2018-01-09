@@ -28,15 +28,19 @@ A l'étage, une salle de réunion de 25 m² accueille vos réunions.
 Salle de réunion claire et agréable, pour 10 personnes
 
 - **Capacité: **Jusqu’à 10 personnes.
-- **Équipement:** Grand ecran connecté (apple TV, Chromecast, hdmi) , internet, WiFi, paperboard.
-- **Disponibilité**: du lundi au vendredi, 9h – 18h (au-delà, nous consulter)
-Prévoir un adaptateur hdmi ! 
+- **Équipement:** Grand ecran connecté (Chromecast, hdmi), internet, WiFi, paperboard.
+- **Disponibilité**: du lundi au vendredi, 9h – 18h (autres horaires, nous consulter)
+*Pensez à révoir un adaptateur hdmi ! 
 
-Tarif HT à la journée / soirée: 150 € / 80 €
+ **Tarifs HT**
+ à l'heure : 25 €
+ 1/2 journée : 80 € (9h à 13h ou 14h - 18h)
+ journée : 150 € (9h à 18h)
+ en soirée : 80 € (18h à 21h)
 [%components.callToAction({label:"Réserver cette salle",url:"reserver-salle.html#/?room=57cd67d001bd9e3bbf44c66e"})%]
 
 
-### Grande salle de réunion – environ 20 pers.
+### Grande salle de réunion – environ 30 pers.
 
 Au rez-de-chaussée, une grande salle de réunion de 55 m² accueille les grands événements : présentations, workshops, séminaires ou formations.
 
@@ -44,12 +48,16 @@ Au rez-de-chaussée, une grande salle de réunion de 55 m² accueille les grands
 ![Une salle multifonction claire et agréable, pour 30 ou 60 pers.](images/salle-reunion/GSDR1.jpg)
 Salle de réunion claire et agréable, pour environ 20 personnes.
 
-- **Capacité: **Jusqu’à 30 personnes (en configuration théâtre).
+- **Capacité: **Jusqu’à 20 pers (réunion autour d'une table) 30 pers (en configuration théâtre).
 - **Équipement:** Vidéo-projecteur, internet, WiFi, paperboard.
-- **Disponibilité**: du lundi au vendredi, 9h – 18h (au-delà, nous consulter)
-Prévoir un adaptateur hdmi ou autre si besoin!
+- **Disponibilité**: du lundi au vendredi, 9h – 18h (autres horaires, nous consulter)
+*Pensez à prévoir un adaptateur vga ou autre si besoin!
 
-Tarif HT à la journée / soirée: 360 € / 150 € 
+**Tarif HT**
+à l'heure : 65 €
+1/2 journée : 160 € (9h à 13h ou 14h - 18h)
+journée : 360 € (9h à 18h)
+en soirée : 160 € (18 à 21h) 
 [%components.callToAction({label:"Réserver cette salle", url:"reserver-salle.html#/?room=57cd67d0f1ccdc12ddf65e77"})%]
 
 
@@ -62,13 +70,17 @@ Cet espace de 100 m² est dédié aux événements ponctuels ou réguliers.
 
 Un espace entièrement configurable, ouvert à de nombreux formats : conférences, workshops, barcamps, etc.
 
-- **Capacité : **Jusqu’à 80 places assises / 100 personnes debout.
+- **Capacité :** Jusqu’à 80 places assises / 100 personnes debout.
 - **Équipement :** Vidéo-projecteur, internet, WiFi. Sonorisation et micro.
-- **Disponibilité **: du lundi au vendredi, de 9h à 18h (au-delà, nous consulter).
+- **Disponibilité :** du lundi au vendredi, de 9h à 18h (au-delà, nous consulter).
 
 Il peut être équipé d'un vidéo-projecteur entrée VGA (prévoir un adaptateur pour d'autres entrées), d'une sonorisation, d'un micro (en option, facturé 50€ HT) & d'internet (Wifi).
 
-Tarif HT à la journée / soirée: 600 € / 350 €
+**Tarif HT :**
+à l'heure : 150 €
+1/2 journée : 360 € (9h à 13h ou 14h - 18h)
+journée : 600 € (9h à 18h)
+en soirée : 360 € (18h à 21h)
 [%components.callToAction({label:"Réserver cet espace",url:"reserver-salle.html#/?room=57cd67d08d74c65d5998a690"})%]
 
 
@@ -80,7 +92,7 @@ Nous vous proposons d’alléger votre organisation en agrémentant vos événem
 
 Forfait suivant les demandes: 
 
-- Boissons chaudes.
+- Boissons chaudes (thé, café).
 - Eau minérale, eau gazeuse et jus de fruit.
 - Viennoiseries, petits gâteaux.
 
@@ -96,7 +108,7 @@ Tarifs sur devis. Prestations réalisées par une entreprise membre du réseau C
 
 **Communication :**
 
-En fonction de la nature de votre événement, CoworkingLille pourra inviter des participants via ses outils de communication : Newsletter, emailing dédié, site blog.mutualab-hacked.jibundeyare.dev et coworkinglille.com, réseaux sociaux (Twitter/ Facebook).
+En fonction de la nature de votre événement, CoworkingLille pourra inviter des participants via ses outils de communication : Newsletter, emailing dédié, bannière sur le site de Mutualab, réseaux sociaux (Twitter/ Facebook).
 
 **Autres services :**
 
