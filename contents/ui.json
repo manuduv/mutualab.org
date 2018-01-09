@@ -1,7 +1,7 @@
 {
   "title":"Mutualāb - Espace de coworking, Salle de réunion et Maker space à Lille",
 
-  "metaDescription":"Mutualāb est un vaste espace de travail partagé : 700 m2 en plein centre de Lille, pour travailler en mode collaboratif ou personnel.",
+  "metaDescription":"Mutualāb est un vaste espace de travail partagé : 1000 m2 en plein centre de Lille, pour travailler, échanger ou innover",
   
   "header":{
     "logoTitle":"Mutualāb - Espace de coworking, Salle de réunion et Maker space à Lille",
@@ -71,8 +71,8 @@
       "logo":"images/partners/lmcu-78x60.png"
     },
     {
-      "label":"Projet partenaire interereg France-Wallonie-Vlaanderen",
-      "url":"http://www.interreg-fwvl.eu/",
+      "label":"Projet partenaire interereg Coffee Coworking",
+      "url":"http://coffeecoworking.eu/",
       "logo":"images/partners/LogoProjets_COFFEE.png"
     }
   ],
