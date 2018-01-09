@@ -33,10 +33,11 @@ Salle de réunion claire et agréable, pour 10 personnes
 *Pensez à révoir un adaptateur hdmi ! 
 
  **Tarifs HT**
- à l'heure : 25 €
- 1/2 journée : 80 € (9h à 13h ou 14h - 18h)
- journée : 150 € (9h à 18h)
- en soirée : 80 € (18h à 21h)
+ - à l'heure : 25 €
+-  1/2 journée : 80 € (9h à 13h ou 14h - 18h)
+-  journée : 150 € (9h à 18h)
+-  en soirée : 80 € (18h à 21h)
+
 [%components.callToAction({label:"Réserver cette salle",url:"reserver-salle.html#/?room=57cd67d001bd9e3bbf44c66e"})%]
 
 
@@ -54,10 +55,11 @@ Salle de réunion claire et agréable, pour environ 20 personnes.
 *Pensez à prévoir un adaptateur vga ou autre si besoin!
 
 **Tarif HT**
-à l'heure : 65 €
-1/2 journée : 160 € (9h à 13h ou 14h - 18h)
-journée : 360 € (9h à 18h)
-en soirée : 160 € (18 à 21h) 
+- à l'heure : 65 €
+- 1/2 journée : 160 € (9h à 13h ou 14h - 18h)
+- journée : 360 € (9h à 18h)
+- en soirée : 160 € (18 à 21h)
+ 
 [%components.callToAction({label:"Réserver cette salle", url:"reserver-salle.html#/?room=57cd67d0f1ccdc12ddf65e77"})%]
 
 
@@ -77,10 +79,11 @@ Un espace entièrement configurable, ouvert à de nombreux formats : conférence
 Il peut être équipé d'un vidéo-projecteur entrée VGA (prévoir un adaptateur pour d'autres entrées), d'une sonorisation, d'un micro (en option, facturé 50€ HT) & d'internet (Wifi).
 
 **Tarif HT :**
-à l'heure : 150 €
-1/2 journée : 360 € (9h à 13h ou 14h - 18h)
-journée : 600 € (9h à 18h)
-en soirée : 360 € (18h à 21h)
+- à l'heure : 150 €
+- 1/2 journée : 360 € (9h à 13h ou 14h - 18h)
+- journée : 600 € (9h à 18h)
+- en soirée : 360 € (18h à 21h)
+
 [%components.callToAction({label:"Réserver cet espace",url:"reserver-salle.html#/?room=57cd67d08d74c65d5998a690"})%]
 
 
