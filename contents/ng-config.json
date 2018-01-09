@@ -3,17 +3,17 @@
   "roomCalendars":[
     {
       "_id": "57cd67d001bd9e3bbf44c66e",
-      "name":"Petite Salle de réunion à l'étage (moins de 10 personnes)",
+      "name":"Petite Salle de réunion à l'étage (10 personnes maximum)",
        "calendarId":"16f7h3js68tcst780g925b9vd4@group.calendar.google.com"
     },
     {
       "_id": "57cd67d0f1ccdc12ddf65e77",
-      "name":"Grande Salle de réunion en bas (plus de 10 personnes)",
+      "name":"Grande Salle de réunion en bas (40 personnes maximum)",
        "calendarId":"frggruk749afdftjp22rsd9hpc@group.calendar.google.com"
     },
     {
       "_id": "57cd67d08d74c65d5998a690",
-      "name":"Espace événemmentiel en bas (plus de 10 personnes)",
+      "name":"Espace événemmentiel en bas (90 personnes maximum)",
        "calendarId":"g2fr4iqtnj0mlfmkaoie8e2sak@group.calendar.google.com"
     }
   ],
